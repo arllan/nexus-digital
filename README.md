@@ -111,6 +111,14 @@ O assistente virtual **"Assistente Nexus"** utiliza:
 
 ---
 
+## Vídeo Pitch
+
+Apresentação da solução em até 4 minutos, mostrando o problema, a aplicação funcionando, as personalizações com padrões web e a integração com IA.
+
+▶️ **Assista aqui:** [https://www.youtube.com/watch?v=V7pkwI4TF-g](https://www.youtube.com/watch?v=V7pkwI4TF-g)
+
+---
+
 ## Como acessar
 
 **Link público:** [https://projetofaculdadelow.netlify.app](https://projetofaculdadelow.netlify.app)
