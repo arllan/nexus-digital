@@ -113,7 +113,7 @@ O assistente virtual **"Assistente Nexus"** utiliza:
 
 ## Como acessar
 
-**Link público:** [https://nexus-digital-demo.netlify.app](#) *(substituir pelo link gerado no Netlify)*
+**Link público:** [https://projetofaculdadelow.netlify.app](https://projetofaculdadelow.netlify.app)
 
 **Ou rodar localmente:**
 1. Clone ou baixe a pasta do projeto
