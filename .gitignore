@@ -1,0 +1,13 @@
+# Variáveis de ambiente — NUNCA commitar
+.env
+.env.local
+
+# Chave local de desenvolvimento — NUNCA commitar
+js/config.js
+
+# Dependências (caso use npm futuramente)
+node_modules/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
