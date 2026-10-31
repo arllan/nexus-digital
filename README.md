@@ -115,6 +115,8 @@ O assistente virtual **"Assistente Nexus"** utiliza:
 
 Apresentação da solução em até 4 minutos, mostrando o problema, a aplicação funcionando, as personalizações com padrões web e a integração com IA.
 
+[![Assistir vídeo pitch](https://img.youtube.com/vi/V7pkwI4TF-g/maxresdefault.jpg)](https://www.youtube.com/watch?v=V7pkwI4TF-g)
+
 ▶️ **Assista aqui:** [https://www.youtube.com/watch?v=V7pkwI4TF-g](https://www.youtube.com/watch?v=V7pkwI4TF-g)
 
 ---
