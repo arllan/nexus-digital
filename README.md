@@ -2,6 +2,10 @@
 
 > Projeto desenvolvido para a disciplina **Padrões Web para No Code e Low Code** — UniFECAF
 
+[![Assistir vídeo pitch](https://img.youtube.com/vi/V7pkwI4TF-g/maxresdefault.jpg)](https://www.youtube.com/watch?v=V7pkwI4TF-g)
+
+▶️ **Vídeo Pitch:** [https://www.youtube.com/watch?v=V7pkwI4TF-g](https://www.youtube.com/watch?v=V7pkwI4TF-g) | 🌐 **Site:** [https://projetofaculdadelow.netlify.app](https://projetofaculdadelow.netlify.app)
+
 ---
 
 ## Problema
